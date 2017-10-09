@@ -15,16 +15,20 @@
 	margin-left: 206.5px;
 	margin-top: 41px;
 	position: absolute;
+	border-bottom-left-radius: 50%;
+	border-top-right-radius: 50%;
 	/*z-index: 500;*/
 }
 
 #hour {
-	height: 170px;
+	height: 150px;
 	width: 15px;
 	background-color: purple;
 	margin-left: 206.5px;
-	margin-top: 41px;
+	margin-top: 61px;
 	position: absolute;
+	border-bottom-left-radius: 50%;
+	border-top-right-radius: 50%;
 	/*z-index: 1000;*/
 }
 
@@ -35,6 +39,8 @@
 	margin-left: 212px;
 	margin-top: 41px;
 	position: absolute;
+	border-bottom-left-radius: 50%;
+	border-top-right-radius: 50%;
 	/*z-index: 2000;*/
 }
 
