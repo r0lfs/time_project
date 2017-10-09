@@ -1,0 +1,18 @@
+#clockDisplay {
+	width: 50%;
+	height: 50%;
+	font-size: 3em;
+	text-align: center;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+
+#hexDisplay {
+	width: 50%;
+	height: 50%;
+	font-size: 3em;
+	text-align: center;
+	margin-left: 25%;
+	margin-top: 15%;
+}
+}
