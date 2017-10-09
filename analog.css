@@ -1,0 +1,49 @@
+#clock {
+	height: 420px;
+	width: 425px;
+	background-image: url(analog-clock.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	z-index: 0;
+}
+
+#minute {
+	height: 170px;
+	width: 15px;
+	background-color: black;
+	margin-left: 206.5px;
+	margin-top: 41px;
+	position: absolute;
+	border-bottom-left-radius: 50%;
+	border-top-right-radius: 50%;
+	/*z-index: 500;*/
+}
+
+#hour {
+	height: 150px;
+	width: 15px;
+	background-color: purple;
+	margin-left: 206.5px;
+	margin-top: 61px;
+	position: absolute;
+	border-bottom-left-radius: 50%;
+	border-top-right-radius: 50%;
+	/*z-index: 1000;*/
+}
+
+#second {
+	height: 170px;
+	width: 5px;
+	background-color: red;
+	margin-left: 212px;
+	margin-top: 41px;
+	position: absolute;
+	border-bottom-left-radius: 50%;
+	border-top-right-radius: 50%;
+	/*z-index: 2000;*/
+}
+
+#digit {
+	display: block;
+}
